@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.imags {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr ;
+	grid-gap: 20px;
+	padding: 20px;
+    text-align: center;
+}
+img{
+    width: 350px;
+    height: 350px;
+}
+#Sec1{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+}
+#Sec1 h1{
+    font-size: 82px;
+    color: slateblue;
+}
+#text_,#count{
+      font-size: 20px;
+}
+#srch{
+    width: 200px;
+color: white;
+background-color: rgb(40, 1, 77);
+font-size: 20px;
+}
