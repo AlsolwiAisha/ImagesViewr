@@ -43,6 +43,7 @@ body {background-color: #957DAD;
       font-size: 20px;
       padding: 5px;
       border-radius: 10px;
+      background: rgba(255,255,255, 0.3);
 }
 #srch{
     width: 200px;
